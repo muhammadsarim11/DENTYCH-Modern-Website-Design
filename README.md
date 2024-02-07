@@ -1,6 +1,7 @@
 # DENTYCH Modern Website Design
-
 Welcome to the DENTYCH Modern Website Design repository! This repository contains the code for a responsive modern website built using HTML and CSS.
+![screencapture-file-C-Users-Lenovo-Desktop-modern-designs-index-html-2024-02-07-11_08_28](https://github.com/muhammadsarim11/DENTYCH-Modern-Website-Design/assets/154580625/e87c5938-1a7a-434b-abee-74fe573dc407)
+
 
 ## Overview
 
